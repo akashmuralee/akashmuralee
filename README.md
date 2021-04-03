@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Akash
+- 👀 I’m interested in Web & App Development
+- 🌱 I’m currently learning Flutter and MEAN Stack
+- 💞️ I’m looking to collaborate on flutter projects
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/akashmuralee/) or by [Email](mailto:akashmuralee97@gmail.com).
